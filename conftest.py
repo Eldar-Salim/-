@@ -18,14 +18,3 @@ def browser(request):
     
     print("\nQuit browser..")
     browser.quit()
-
-
-
-    """
-    print("\nstart browser for test..")
-    browser = 
-    browser.implicitly_wait(10)
-    yield browser
-    print("\nquit browser..")
-    browser.quit()
-    """

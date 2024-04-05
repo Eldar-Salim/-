@@ -1,2 +1,2 @@
-Login = 89203736346
-Password = "Salimov15000"
+Login = "Ваш логин"
+Password = "Ваш пароль"
