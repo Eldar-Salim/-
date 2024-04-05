@@ -1,0 +1,28 @@
+# C:\Users\Администратор\Test-task-for-Avito\__pycache__\__init__.cpython-310.pyc matches C:\Users\Администратор\Test-task-for-Avito\__init__.py
+# code object from 'C:\\Users\\Администратор\\Test-task-for-Avito\\__pycache__\\__init__.cpython-310.pyc'
+import '__init__' # <_frozen_importlib_external.SourceFileLoader object at 0x000001991D735630>
+import 'faker.providers.address.en' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.address.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.automotive.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.bank.en_GB' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.barcode.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.color.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.company.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.credit_card.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.currency.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.date_time.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.geo.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.internet.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.job.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.lorem.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.misc.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.passport.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.person.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.phone_number.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+import 'faker.providers.ssn.en_US' # <_pytest.assertion.rewrite.AssertionRewritingHook object at 0x000001991B5F8C40>
+# C:\Users\Администратор\AppData\Local\Programs\Python\Python310\lib\encodings\__pycache__\idna.cpython-310.pyc matches C:\Users\Администратор\AppData\Local\Programs\Python\Python310\lib\encodings\idna.py
+# code object from 'C:\\Users\\Администратор\\AppData\\Local\\Programs\\Python\\Python310\\lib\\encodings\\__pycache__\\idna.cpython-310.pyc'
+# C:\Users\Администратор\AppData\Local\Programs\Python\Python310\lib\__pycache__\stringprep.cpython-310.pyc matches C:\Users\Администратор\AppData\Local\Programs\Python\Python310\lib\stringprep.py
+# code object from 'C:\\Users\\Администратор\\AppData\\Local\\Programs\\Python\\Python310\\lib\\__pycache__\\stringprep.cpython-310.pyc'
+import 'stringprep' # <_frozen_importlib_external.SourceFileLoader object at 0x000001991D7379A0>
+import 'encodings.idna' # <_frozen_importlib_external.SourceFileLoader object at 0x000001991D7374F0>

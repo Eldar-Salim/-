@@ -1,5 +1,6 @@
 import pytest
 from selenium import webdriver
+import allure
 
 
 class BasePage():
@@ -8,4 +9,5 @@ class BasePage():
         self.url = url
 
     def open(self):
-        self.browser.get(self.url)
+        with allure.step("Открыть страницу"):
+            self.browser.get(self.url)
