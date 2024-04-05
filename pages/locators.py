@@ -11,7 +11,7 @@ class CatalogPageLocators():
 
 
 class ProductPageLocators():
-    BUTTON_BUY_WITH_DELIVERY = (By.CSS_SELECTOR, "[data-marker='delivery-item-button-main']")
+    BUTTON_BUY_WITH_DELIVERY = (By.CSS_SELECTOR, "button.desktop-1jg0uen")
 
 
 class DeliveryPageLocators():

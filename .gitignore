@@ -10,3 +10,5 @@ env/
 settings.ini
 .config.json
 __pycache__
+allure-results/
+geckodriver.log

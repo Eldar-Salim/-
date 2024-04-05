@@ -7,6 +7,7 @@ from pages.delivery_page import DeliveryPage
 import allure
 
 
+@pytest.mark.parametrize('browser', ["Chrome", "Firefox"], indirect=True)
 @allure.feature("Авито Доставка")
 @allure.title("Поле телефона пустое в оформлении заказа товаров с доставкой")
 def test_check_phone_number(browser):
